@@ -52,5 +52,7 @@ Durante o desenvolvimento deste projeto, foram praticados:
 🔥 Curtiu o projeto? Fique à vontade para clonar, testar e adaptar como quiser!
 ---
 
+## 📸 Screenshot
+
 ![_home_amanda_projeto-pessoal_netflix-dio_index html](https://github.com/user-attachments/assets/2ee17896-8203-472f-84a0-96b9120d13ce)
 
